@@ -1,1 +1,1 @@
-Hello I’m Zeger Use. 
+## Hello I’m Zeger Use. AI enthousiast, homelabber and self-hoster
